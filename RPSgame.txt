@@ -1,0 +1,40 @@
+	    *****************          ROCK PAPER SCISSORS              *****************
+	    *****************             GAME RECORDS                  *****************
+
+Computer Mode
+
+You Chose Rock
+Computer Chose Paper
+Computer Wins
+Played on 28/04/2023 12:41:31
+
+Computer Mode
+
+You Chose Rock
+Computer Chose Paper
+Computer Wins
+Played on 11/05/2023 12:08:11
+
+Computer Mode
+
+You Chose Rock
+Computer Chose Scissors
+You Win
+Played on 26/05/2023 01:48:07
+
+2 Player Mode
+
+Mohit VS deekshit
+
+Mohit Chose Rock
+deekshit Chose Paper
+deekshit Wins
+Played on 12/01/2024 10:12:47
+
+Computer Mode
+
+You Chose Scissors
+Computer Chose Rock
+Computer Wins
+Played on 12/01/2024 10:14:41
+
