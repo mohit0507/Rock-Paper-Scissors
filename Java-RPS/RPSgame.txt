@@ -1,0 +1,24 @@
+	    *****************          ROCK PAPER SCISSORS              *****************
+	    *****************             GAME RECORDS                  *****************
+
+Computer Mode
+
+You Chose Rock
+Computer Chose Paper
+Computer Wins
+Played on: 31/07/2024 00:00:47
+
+Computer Mode
+
+You Chose Rock
+Computer Chose Rock
+DRAW
+Played on: 31/07/2024 00:00:58
+
+Computer Mode
+
+You Chose Rock
+Computer Chose Rock
+DRAW
+Played on: 31/07/2024 00:18:17
+
