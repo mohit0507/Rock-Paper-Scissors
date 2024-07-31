@@ -151,7 +151,7 @@ public class RPSGame {
 
     static void connect() {
         try {
-            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/RPSgame", "root", "Green@5supr");
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/RPSgame", "yourusername", "yourpassword");
             //System.out.println("Connected to the database.");
         } catch (SQLException e) {
             e.printStackTrace();
